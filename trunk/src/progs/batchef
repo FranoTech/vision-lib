@@ -1,0 +1,3 @@
+newef $1 $2
+display $1 &
+display $2
